@@ -818,7 +818,7 @@
                 <a href="#"><em class="far fa-user"></em></a>
                 <a href="#"><em class="far fa-heart"></em></a>
                 <a href="#"><em class="fas fa-shopping-cart"></em><span class="cart-count">3</span></a>
-                <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
+                <button class="mobile-menu-btn" id="mobileMenuBtn"><em class="fas fa-bars"></em></button>
             </div>
         </div>
     </header>
@@ -844,32 +844,32 @@
         
         <div class="categories">
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
+                <div class="category-icon"><em class="fas fa-mobile-alt"></em></div>
                 <h3>Smartphones</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-laptop"></i></div>
+                <div class="category-icon"><em class="fas fa-laptop"></em></div>
                 <h3>Laptops</h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-tshirt"></i></div>
+                <div class="category-icon"><em class="fas fa-tshirt"></em></div>
                 <h3>Clothing</h3>
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-headphones"></i></div>
+                <div class="category-icon"><em class="fas fa-headphones"></em></div>
                 <h3>Gadgets</h3>
                 <p>Smart devices for modern life</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
+                <div class="category-icon"><em class="fas fa-shoe-prints"></em></div>
                 <h3>Footwear</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-watch"></i></div>
+                <div class="category-icon"><em class="fas fa-watch"></em></div>
                 <h3>Accessories</h3>
                 <p>Complete your look</p>
             </div>
